@@ -1,5 +1,5 @@
 ## `Calculator-java`
-Simple calculator program using java language.
+Simple calculator program using java .
 class is created by the name 'Calci'.
 
 ## `Java Classes/Objects`
